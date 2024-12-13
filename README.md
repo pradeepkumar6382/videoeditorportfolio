@@ -13,7 +13,7 @@ This repository hosts the portfolio project for a skilled video editor. It's des
 1. **Clone this repository**
 
 ```bash
-    git clone https://github.com/YonkoSalar/Ruben-portfolio
+    git clone https://github.com/pradeepkumar6382/videoeditorportfolio
 
 ```
 
@@ -22,7 +22,6 @@ This repository hosts the portfolio project for a skilled video editor. It's des
 Navigate into the site’s directory and install the necessary packages.
 
 ```bash
-    cd Ruben-portfolio
     npm install
 ```
 3. **Run the site**
@@ -32,5 +31,5 @@ Start the server with the following command:
     npm start
 ```
 ## 🖥️ Demo
-Explore the live demo of the site [here](https://ruben-portoflio.web.app/).
+Explore the live demo of the site []().
 
