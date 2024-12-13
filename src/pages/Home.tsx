@@ -25,14 +25,14 @@ function Home() {
           Content Creator/Video Editor
         </h2>
         <div className="flex flex-row space-x-6  pt-2 md:items-center justify-center">
-          <a href="https://www.linkedin.com/in/ruben-nicolaysen-pedersen/">
+          <a href="https://www.linkedin.com/in/pradeep-kumar-77303a278/">
             <FontAwesomeIcon icon={faLinkedin} color="white" size="2x" />
           </a>
-          <a href="mailto:ruben.nicolaysen.pedersen@gmail.com">
+          <a href="mailto:pradeepkumar17301@gmail.com">
             <FontAwesomeIcon icon={faEnvelope} color="white" size="2x" />
           </a>{" "}
           <a
-            href="https://docs.google.com/document/d/1TH4gFknJ5ojMl1Oeir3Mv6OyJHeSSSRiqQGjBTfD1h8/edit?usp=sharing            "
+            href="https://drive.google.com/file/d/1Jtk8fqGkoumb5DCAPHCEhggZc_W3Lcvh/view?usp=sharing"
             className="text-white hover:text-blue-200 transition duration-150 ease-in-out"
             data-bs-toggle="tooltip"
             data-bs-placement="bottom"
@@ -54,7 +54,7 @@ function Home() {
           </a>
         </div>
        <div className="flex justify-center items-center pt-4">
-        <a href="https://www.youtube.com/watch?v=TlqRMjk37nw" target="_blank" rel="noopener noreferrer">
+        <a href="https://drive.google.com/drive/folders/1eIFoClW4F1xKZS6NXESNtiKzqs20ulq0?usp=drive_link" target="_blank" rel="noopener noreferrer">
           <div className="p-4 max-w-xs bg-white rounded-full text-center cursor-pointer transform transition duration-500 hover:scale-105">
             <h2 className="text-sm font-semibold text-black md:text-xl flex items-center justify-center">
               <img src="/clapper-board-joypixels.gif" alt="Video Pitch" className="inline-block w-6 h-6 mr-2 -mt-2" />
