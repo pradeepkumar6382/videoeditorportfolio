@@ -12,12 +12,10 @@ function Home() {
 
   return (
     <div className="flex flex-row flex-wrap justify-center items-center h-screen bg-black overflow-hidden pb-10">
-    
-        <div className="">
+     <div className="">
         <video controls autoPlay src="./videoedit.mp4" loop muted/>
         </div>
-        <div className="absolute bottom-0 w-full h-1/2 bg-gradient-to-t from-black to-transparent"></div>
- 
+     <div className="absolute bottom-0 w-full h-1/2 bg-gradient-to-t from-black to-transparent"></div> 
       <animated.div style={fade} className=" flex flex-col justify-center p-4 -mt-40 md:-mt-0 ">
         <h1 className="font-extrabold text-white text-2xl md:text-3xl lg:text-4xl">
           Pradeep Kumar
